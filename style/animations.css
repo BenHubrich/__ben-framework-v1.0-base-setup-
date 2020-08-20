@@ -1,0 +1,8 @@
+/* Copyright © P.-B. Hubrich, 2020 
+        All rights reserved.*/
+
+@-webkit-keyframes logoSlide{
+        0%              { opacity: 0.1; color: rgba(255, 255, 255, 0); width: 0vh; border-radius: 0vh 0vh 0vh 0vh; }
+        66.666667%      { opacity: 0.333333; color: rgba(255, 255, 255, 0) ; width: 25vh; border-radius: 0vh 0vh 0vh 0vh; }
+        100%            { opacity: 1; color: rgba(255, 255, 255, 1); width: 25vh; border-radius: 0vh 0vh 2vh 0vh; }
+}
